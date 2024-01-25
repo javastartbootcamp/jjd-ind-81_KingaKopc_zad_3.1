@@ -3,8 +3,8 @@ class Bed {
     double width;
     double height;
 
-    Bed (double l, double w, double h) {
-        lenght = l;
+    Bed (double h, double w, double l) {
+        height = h;
         width = w;
         height = h;
     }
